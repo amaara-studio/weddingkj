@@ -98,7 +98,7 @@ function App() {
     content = (
       <div className="App-loading" style={{position: 'relative'}}>
         <img src={img16} alt=" " style={{width: '100%', display: 'block'}} />
-        <button className="enter-button" onClick={enterInvite} style={{display: 'block', position: 'absolute', top: '35%', left: '50%'}}>Entrar</button>
+        <button className="enter-button" onClick={enterInvite} style={{display: 'block', position: 'absolute', top: '27%', left: '50%'}}>Entrar</button>
       </div>
     );
   }
@@ -142,16 +142,16 @@ function App() {
           <h2 style={{fontFamily: 'Playfair', color: '#706F6F', paddingTop: 26, fontSize: 16, fontWeight: 400}}>CEREMONIA</h2>
           <div className="dat-time" style={{display: 'flex', justifyContent: 'center', color: '#706F6F', fontFamily: 'Playfair', paddingTop: 6}}>
             <div>
-              <div style={{fontSize: '36px', lineHeight: '26px'}}>03</div>
+              <div style={{fontSize: '17px', lineHeight: '20px'}}>03</div>
             </div>
-            <div className="days" style={{padding: '0 16px', margin: '0 13px', border: '1px solid #706F6F', borderTop: 'none', borderBottom: 'none'}}>
-              <div style={{fontSize: '36px', lineHeight: '36px'}}>Diciembre</div>
+            <div className="days" style={{padding: '0 10px', margin: '0 13px', border: '1px solid #706F6F', borderTop: 'none', borderBottom: 'none'}}>
+              <div style={{fontSize: '17px', lineHeight: '27px'}}>Diciembre</div>
             </div>
             <div>
-              <div style={{fontSize: '36px', lineHeight: '26px'}}>22</div>
+              <div style={{fontSize: '17px', lineHeight: '20px'}}>22</div>
             </div>
           </div>
-          <p style={{fontFamily: 'Playfair', fontSize: '14px', lineHeight: '16px'}}>2:30pm</p>
+          <p style={{fontFamily: 'Playfair', fontSize: '14px', lineHeight: '16px', marginTop: '4px'}}>2:30pm</p>
           <p style={{fontFamily: 'MontserratExtraLight', fontSize: 12, marginBottom: 0, lineHeight: '4px'}}>Iglesia de los Ángeles de Grecia</p>
           <a 
             style={{fontFamily: 'MontserratExtraLight', fontSize: '10px'}}
@@ -163,7 +163,7 @@ function App() {
           </a>
           <h2 style={{fontFamily: 'Playfair', color: '#706F6F', paddingTop: 26, fontSize: 16, fontWeight: 400}}>RECEPCIÓN</h2>
           <p style={{fontFamily: 'Playfair', fontSize: '14px', lineHeight: '16px'}}>4:30pm</p>
-          <p style={{fontFamily: 'MontserratExtraLight', fontSize: 12, paddingTop: 18, marginBottom: 0, lineHeight: '4px'}}>Sala de eventos</p>
+          <p style={{fontFamily: 'MontserratExtraLight', fontSize: 12, marginBottom: 0, lineHeight: '4px'}}>Sala de eventos</p>
           <p style={{fontFamily: 'MontserratExtraLight', fontSize: 12, marginBottom: 0, lineHeight: '4px'}}>La Divina Providencia</p>
           <a 
             style={{fontFamily: 'MontserratExtraLight', fontSize: '10px'}}
