@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weddingkj/static/css/main.3e30b77d.css",
-    "main.js": "/weddingkj/static/js/main.6b77f8ef.js",
+    "main.js": "/weddingkj/static/js/main.e65372f3.js",
     "static/js/787.2201df3b.chunk.js": "/weddingkj/static/js/787.2201df3b.chunk.js",
     "static/media/m_btl.mp3": "/weddingkj/static/media/m_btl.f4e6eb5ed04ebb1d7c52.mp3",
     "static/media/cuenta1.png": "/weddingkj/static/media/cuenta1.16558b6e1f90d753682c.png",
@@ -15,7 +15,7 @@
     "static/media/cuenta3.png": "/weddingkj/static/media/cuenta3.c820c8fb1824dbcf8930.png",
     "static/media/PetitFormalScript-Regular.ttf": "/weddingkj/static/media/PetitFormalScript-Regular.d6bb784a3d10f7de2c81.ttf",
     "static/media/kj-1.jpg": "/weddingkj/static/media/kj-1.3038380257c020f0384d.jpg",
-    "static/media/asistencia.jpg": "/weddingkj/static/media/asistencia.c8137cc11b79fb26ba76.jpg",
+    "static/media/asistencia.jpg": "/weddingkj/static/media/asistencia.33cfc4c9624285632275.jpg",
     "static/media/cuenta2.png": "/weddingkj/static/media/cuenta2.df01d5b678e214e78be7.png",
     "static/media/Montserrat-ExtraLight.otf": "/weddingkj/static/media/Montserrat-ExtraLight.bf201011a21349894765.otf",
     "static/media/PlayfairDisplay-VariableFont_wght.woff2": "/weddingkj/static/media/PlayfairDisplay-VariableFont_wght.116f2b82c710c1433ff6.woff2",
@@ -27,11 +27,11 @@
     "static/media/hoja3.png": "/weddingkj/static/media/hoja3.53bd06e9f3420952bdea.png",
     "index.html": "/weddingkj/index.html",
     "main.3e30b77d.css.map": "/weddingkj/static/css/main.3e30b77d.css.map",
-    "main.6b77f8ef.js.map": "/weddingkj/static/js/main.6b77f8ef.js.map",
+    "main.e65372f3.js.map": "/weddingkj/static/js/main.e65372f3.js.map",
     "787.2201df3b.chunk.js.map": "/weddingkj/static/js/787.2201df3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e30b77d.css",
-    "static/js/main.6b77f8ef.js"
+    "static/js/main.e65372f3.js"
   ]
 }
