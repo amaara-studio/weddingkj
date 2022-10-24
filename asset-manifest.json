@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/weddingkj/static/css/main.3e30b77d.css",
+    "main.js": "/weddingkj/static/js/main.6eb0c162.js",
+    "static/js/787.2201df3b.chunk.js": "/weddingkj/static/js/787.2201df3b.chunk.js",
+    "static/media/m_btl.mp3": "/weddingkj/static/media/m_btl.f4e6eb5ed04ebb1d7c52.mp3",
+    "static/media/cuenta1.png": "/weddingkj/static/media/cuenta1.16558b6e1f90d753682c.png",
+    "static/media/quote.jpg": "/weddingkj/static/media/quote.3410cfe3aed7b37976f7.jpg",
+    "static/media/galeria2.jpg": "/weddingkj/static/media/galeria2.27b8124db139bb3a8f56.jpg",
+    "static/media/intro.jpg": "/weddingkj/static/media/intro.6600b24f6114f9dc3bde.jpg",
+    "static/media/galeria3.jpg": "/weddingkj/static/media/galeria3.6426ee2863e5b05820bc.jpg",
+    "static/media/info2.png": "/weddingkj/static/media/info2.c7af6cba8b60f23e2519.png",
+    "static/media/galeria1.jpg": "/weddingkj/static/media/galeria1.04ac143a7e2a79c8583b.jpg",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/weddingkj/static/media/PlayfairDisplay-VariableFont_wght.54971b7248ded7d0d614.ttf",
+    "static/media/cuenta3.png": "/weddingkj/static/media/cuenta3.c820c8fb1824dbcf8930.png",
+    "static/media/PetitFormalScript-Regular.ttf": "/weddingkj/static/media/PetitFormalScript-Regular.d6bb784a3d10f7de2c81.ttf",
+    "static/media/kj-1.jpg": "/weddingkj/static/media/kj-1.3038380257c020f0384d.jpg",
+    "static/media/asistencia.jpg": "/weddingkj/static/media/asistencia.c8137cc11b79fb26ba76.jpg",
+    "static/media/cuenta2.png": "/weddingkj/static/media/cuenta2.df01d5b678e214e78be7.png",
+    "static/media/Montserrat-ExtraLight.otf": "/weddingkj/static/media/Montserrat-ExtraLight.bf201011a21349894765.otf",
+    "static/media/PlayfairDisplay-VariableFont_wght.woff2": "/weddingkj/static/media/PlayfairDisplay-VariableFont_wght.116f2b82c710c1433ff6.woff2",
+    "static/media/PetitFormalScript-Regular.woff2": "/weddingkj/static/media/PetitFormalScript-Regular.55d2fa76170337b3c5df.woff2",
+    "static/media/Montserrat-ExtraLight.woff2": "/weddingkj/static/media/Montserrat-ExtraLight.71bc4ca7ce271aec8fd0.woff2",
+    "static/media/info1.png": "/weddingkj/static/media/info1.75fb05adbdfdbb273d3b.png",
+    "static/media/hoja2.png": "/weddingkj/static/media/hoja2.97bff962df0747604de5.png",
+    "static/media/hoja4.png": "/weddingkj/static/media/hoja4.9f22d28e6246e660c8d8.png",
+    "static/media/hoja3.png": "/weddingkj/static/media/hoja3.53bd06e9f3420952bdea.png",
+    "index.html": "/weddingkj/index.html",
+    "main.3e30b77d.css.map": "/weddingkj/static/css/main.3e30b77d.css.map",
+    "main.6eb0c162.js.map": "/weddingkj/static/js/main.6eb0c162.js.map",
+    "787.2201df3b.chunk.js.map": "/weddingkj/static/js/787.2201df3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e30b77d.css",
+    "static/js/main.6eb0c162.js"
+  ]
+}
